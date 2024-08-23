@@ -1,13 +1,13 @@
 {
-    "name":"TWHALE vs SWHALE1",
+    "name":"TWHALE vs SWHALE",
     "tokens":[
         {
-            "symbol":"USDJ",
-            "address":"TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+            "symbol":"TWHALE",
+            "address":"TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE",
             "chainId":1,
             "decimals":18,
-            "name":"JUST Stablecoin v1.0",
-            "logoURI":"https://coin.top/production/logo/usdj.png"
+            "name":"TRON WHALE",
+            "logoURI":"https://storage.yandexcloud.net/staticfiles/trxsol.png"
         }
    ],
     "logoURI":"https://justswap.io/favicon.ico",
