@@ -10,12 +10,12 @@
             "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
         },
         {
-            "symbol":"TWHALE",
-            "address":"TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE",
+            "symbol":"USDJ",
+            "address":"TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
             "chainId":1,
             "decimals":18,
-            "name":"TRON WHALE",
-            "logoURI":"https://storage.yandexcloud.net/staticfiles/trxsol.png"
+            "name":"JUST Stablecoin v1.0",
+            "logoURI":"https://coin.top/production/logo/usdj.png"
         }
    ],
     "logoURI":"https://justswap.io/favicon.ico",
