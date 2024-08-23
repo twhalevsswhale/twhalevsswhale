@@ -1,13 +1,13 @@
 {
-    "name":"TWHALESWHALE4",
+    "name":"TWHALESWHALE5",
     "tokens":[
         {
             "symbol":"TWHALE",
-            "address":"TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE",
+            "address":"TSKbf4cSUQ47evHHMcFYzDzphgqz8PBDSM",
             "chainId":1,
             "decimals":18,
-            "name":"TRON WHALES",
-            "logoURI":"https://static.tronscan.org/production/upload/logo/new/TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE.png?t=1724404672645"
+            "name":"TronWhale",
+            "logoURI":"https://static.tronscan.org/production/upload/logo/new/sun/TSKbf4cSUQ47evHHMcFYzDzphgqz8PBDSM.jpeg"
         }
    ],
     "logoURI":"https://justswap.io/favicon.ico",
