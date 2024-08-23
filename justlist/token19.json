@@ -1,12 +1,12 @@
 {
-    "name":"TWHALESWHALE2",
+    "name":"TWHALESWHALE3",
     "tokens":[
         {
             "symbol":"TWHALE",
             "address":"TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE",
             "chainId":1,
             "decimals":18,
-            "name":,
+            "name":TRON WHALES,
             "logoURI":"https://static.tronscan.org/production/upload/logo/new/TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE.png?t=1724404672645"
         }
    ],
