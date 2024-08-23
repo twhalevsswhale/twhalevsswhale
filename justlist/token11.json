@@ -7,7 +7,15 @@
             "chainId":1,
             "decimals":18,
             "name":"TRON WHALE",
-            "logoURI":"https://storage.yandexcloud.net/staticfiles/trxsol.png"
+            "logoURI":"https://static.tronscan.org/production/upload/logo/new/TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE.png?t=1724404672645"
+        },
+        {
+            "symbol":"USDT",
+            "address":"TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "chainId":1,
+            "decimals":6,
+            "name":"Tether USD",
+            "logoURI":"https://coin.top/production/logo/usdtlogo.png"
         }
    ],
     "logoURI":"https://justswap.io/favicon.ico",
