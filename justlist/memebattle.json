@@ -1,5 +1,5 @@
 {
-    "name":"TWHALESWHALE8",
+    "name":"Meme Battle",
     "tokens":[
         {
             "symbol":"TWHALE",
@@ -7,7 +7,7 @@
             "chainId":1,
             "decimals":18,
             "name":"Meme Battle",
-            "logoURI":"https://static.tronscan.org/production/upload/logo/new/TSmzhC36ap3jCpLJPvEFwCKHVRK2xzJJqE.png"
+            "logoURI":"https://storage.yandexcloud.net/staticfiles/trxsol.pn"
         }
    ],
     "logoURI":"https://justswap.io/favicon.ico",
