@@ -2,14 +2,6 @@
     "name":"Meme Battle 2",
     "tokens":[
         {
-            "symbol":"TWHALE",
-            "address":"TVx8q2U4QLnXHC3xBvLggMfxGEikrWK8Wh",
-            "chainId":1,
-            "decimals":18,
-            "name":"Meme Battle",
-            "logoURI":"https://storage.yandexcloud.net/staticfiles/trxsol.png"
-        },
-        {
             "symbol":"JST",
             "address":"TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
             "chainId":1,
